@@ -7,7 +7,7 @@
 Deep Learning-Based Financial Sentiment Analysis (DLBFSA) is a deep learning algorithm that analyzes financial news and social media to gauge market sentiment and make informed trading decisions.
 
 ## Offering
-This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [reece.dixon@quantascript.com](mailto:reece.dixon@quantascript.com).
+This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [quantascript@gmail.com](mailto:quantascript@gmail.com).
 
 ## Mathematical Equations
 
